@@ -1,2 +1,2 @@
-# Sweedpie
-Spatial Tweedie for the Scalable Detection of Spatially Variable Features
+# TweedSpot
+Tweedie Spatial Omics Analysis Toolbox
